@@ -24,7 +24,7 @@ int main(){
 
         // searching for integer x in array t
         bool f = false;
-        Current method
+        // Current method
         for(int i = 0; i < N; i++){
             if(x == t[i]){
                 f = true;
