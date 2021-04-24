@@ -23,7 +23,7 @@ int main(){
         cin >> x;
 
         // searching for integer x in array t
-        // bool f = false;
+         bool f = false;
         // // Current method
         // for(int i = 0; i < N; i++){
         //     if(x == t[i]){
